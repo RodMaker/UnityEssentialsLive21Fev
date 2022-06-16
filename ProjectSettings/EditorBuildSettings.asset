@@ -1,0 +1,149 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Karting/Scenes/IntroMenu.unity
+    guid: d29260d8d84c94bd7ac95807b3da99d4
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Menus/GameModeMenu.unity
+    guid: 72f690422b2556144b21774ce6c11dc3
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Menus/VehicleMenu/VehicleTTMenu.unity
+    guid: 68c17b5c27936cd4c95ce874997bbe90
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Menus/VehicleMenu/VehicleCrashMenu.unity
+    guid: fc16f5d1303c4db4e9f33504272a1637
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Menus/VehicleMenu/VehicleLapMenu.unity
+    guid: d952ea7e7281b9549b405d0cea6e79b6
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Menus/VehicleMenu/VehicleRLMenu.unity
+    guid: 94d56c2526b4d82449e5c839499649e9
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Menus/TrackMenu/TrackC4Menu.unity
+    guid: cedb3154052cf4742b53e1874441cec7
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Menus/TrackMenu/TrackCKMenu.unity
+    guid: e11c7d5d94f9e4e4ebb1a5f04b34a19b
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Menus/TrackMenu/TrackCRMenu.unity
+    guid: 3e5d0dd37c73efa429151fbc70041f53
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Menus/TrackMenu/TrackL4Menu.unity
+    guid: f4a5411033c37a54098b8035c5e5e537
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Menus/TrackMenu/TrackLKMenu.unity
+    guid: f2b0dde74bf32f144bb41af3fd30ac0b
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Menus/TrackMenu/TrackLRMenu.unity
+    guid: 5dfce82ce2a93b141bc2d4ea7517fb24
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Menus/TrackMenu/TrackTT4Menu.unity
+    guid: bf98c49d202bba14ca1cd182452569ee
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Menus/TrackMenu/TrackTTKMenu.unity
+    guid: 963e1625dce30c64894172beb0e25933
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Menus/TrackMenu/TrackTTRMenu.unity
+    guid: 0e2bd8d2375b6ad4d988b2909bd08c50
+  - enabled: 1
+    path: Assets/Karting/Scenes/LoseScene.unity
+    guid: 9c449e01147824b419cda406398fb2e7
+  - enabled: 1
+    path: Assets/Karting/Scenes/WinScene.unity
+    guid: d6801f2e59f75ee4b919cf5da4e48e3b
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/OLDCrash/CrashCourse1.unity
+    guid: e0b657185587bd040954c0e1df06a02c
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/OLDCrash/CrashCourse2.unity
+    guid: f9d820d56637b7a4eb6cd6986941a299
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/OLDCrash/CrashCourse3.unity
+    guid: 4b7ba547cbe809d4d96c01b31d867c51
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Lap/4x4LapTrack1.unity
+    guid: 667110d88eedf854486684c9c8a58f46
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Lap/4x4LapTrack2.unity
+    guid: af9f94f50366d5d4aa594be5d4be9de7
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Lap/4x4LapTrack3.unity
+    guid: 4500790a89578244fbe98c8579530394
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Lap/4x4LapTrack4.unity
+    guid: 07fdcc7c802261d4eb079cfbfcfaf0c4
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Lap/KartLapTrack1.unity
+    guid: 7c0d2221bfeb3ae4d9e45afe27f260ee
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Lap/KartLapTrack2.unity
+    guid: d9c7bac84c3577b46b60e6370f31a237
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Lap/KartLapTrack3.unity
+    guid: 2fbbeb7a1f2b8ca4c8f5578c9d6f27c9
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Lap/KartLapTrack4.unity
+    guid: 348a0d87907fa8642993cd3b652774f2
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Lap/RoadsterLapTrack1.unity
+    guid: 202eefe06354716478559d8a932c7ed1
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Lap/RoadsterLapTrack2.unity
+    guid: 611014e912dbb1b43a52e61d011cd54a
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Lap/RoadsterLapTrack3.unity
+    guid: 2fb327ed6cccfed43a76d523c70b44cc
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/Lap/RoadsterLapTrack4.unity
+    guid: e9299a0cf8387af428908ea75c73b6c5
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/TT/TTKTrack1.unity
+    guid: fb4788efd60570043a8de0e3eb3f2462
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/TT/TTKTrack2.unity
+    guid: c133ce19fc6c59644989dca277cb45be
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/TT/TTKTrack3.unity
+    guid: 440fcd7f5e515b546aecef8b4d0cb8c5
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/TT/TTKTrack4.unity
+    guid: a94d0c8d193fe5845bb6b56534a0c92a
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/TT/TT4Track1.unity
+    guid: 7ba657fba53388c498dc76e0db27e3a6
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/TT/TT4Track2.unity
+    guid: 5915e6a8ff920f641add113ddf1ce0d6
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/TT/TT4Track3.unity
+    guid: 75957be77bcd48d468edb67ff9b52678
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/TT/TT4Track4.unity
+    guid: 67c5558c72e3bcd4a8740c22dacb6929
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/TT/TTRTrack1.unity
+    guid: 715a3173cec757b43b35c38ae35bca81
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/TT/TTRTrack2.unity
+    guid: 62185dc803c2ed94d8ed7447a036c92d
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/TT/TTRTrack3.unity
+    guid: 83bdae662b016f342a0893c2a1d5acd3
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/TT/TTRTrack4.unity
+    guid: 44d6cb3004a333a45a8debc2faea80d9
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/RocketLeague/Stadium1.unity
+    guid: c860a61ab2465074db2e0ff73992ade3
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/RocketLeague/Stadium2.unity
+    guid: 764184a172c84ae4ab7d592cc8ab00c1
+  - enabled: 1
+    path: Assets/Karting/Scenes/MyScenes/RocketLeague/Stadium3.unity
+    guid: 908129efd4b4c1f4290e1d73dfa04d6b
+  m_configObjects: {}
